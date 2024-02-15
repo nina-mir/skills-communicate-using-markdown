@@ -2,6 +2,10 @@
 ## designing a database schema is not easy
 ### talking about politics is easy! but, why?!
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] 
 Some code snippet: 
 
 ``` node install pino```
